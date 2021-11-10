@@ -2,3 +2,4 @@ ini file txt untuk push ke github
 
 Nama : Syahrul Gunawan Ramdhani
 NIM : 5200411508
+Prodi : Informatika
